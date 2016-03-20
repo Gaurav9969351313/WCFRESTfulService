@@ -1,0 +1,10 @@
+c:\users\jay\documents\visual studio 2015\Projects\WCFServiceSolution\WCFRESTfulService\bin\WCFRESTfulService.dll.config
+c:\users\jay\documents\visual studio 2015\Projects\WCFServiceSolution\WCFRESTfulService\bin\WCFRESTfulService.dll
+c:\users\jay\documents\visual studio 2015\Projects\WCFServiceSolution\WCFRESTfulService\bin\WCFRESTfulService.pdb
+c:\users\jay\documents\visual studio 2015\Projects\WCFServiceSolution\WCFRESTfulService\bin\EntityFramework.dll
+c:\users\jay\documents\visual studio 2015\Projects\WCFServiceSolution\WCFRESTfulService\bin\EntityFramework.SqlServer.dll
+c:\users\jay\documents\visual studio 2015\Projects\WCFServiceSolution\WCFRESTfulService\bin\EntityFramework.xml
+c:\users\jay\documents\visual studio 2015\Projects\WCFServiceSolution\WCFRESTfulService\bin\EntityFramework.SqlServer.xml
+c:\users\jay\documents\visual studio 2015\Projects\WCFServiceSolution\WCFRESTfulService\obj\Debug\WCFRESTfulService.csprojResolveAssemblyReference.cache
+c:\users\jay\documents\visual studio 2015\Projects\WCFServiceSolution\WCFRESTfulService\obj\Debug\WCFRESTfulService.dll
+c:\users\jay\documents\visual studio 2015\Projects\WCFServiceSolution\WCFRESTfulService\obj\Debug\WCFRESTfulService.pdb
